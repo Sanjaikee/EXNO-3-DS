@@ -31,8 +31,8 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-# NAME : AARON RAJESH . R
-# REG.NO: 212223100001
+# NAME : SANJAI S
+# REG.NO: 212223230186
          import pandas as pd
      df=pd.read_csv("/content/Encoding Data.csv")
      df
